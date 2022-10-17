@@ -7,6 +7,7 @@ Using our linear regression analysis of the data, we can see that the slope of t
 ## Summary Statistics on Suspension Coils 
 **Total Summary**
 ![image](https://user-images.githubusercontent.com/107723677/196224501-081e5ab8-a30b-4d9f-a0da-a3301daf9888.png)
+--
 **Lot Summary**
 ![image](https://user-images.githubusercontent.com/107723677/196224613-457bc550-327b-43fd-921c-02273214c205.png)
 
